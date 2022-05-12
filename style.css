@@ -1,0 +1,11 @@
+.levelButton {
+  width: 400px;
+  height: 200px;
+  background-image: url("./assets/images/buttonSmall.png");
+  background-size: cover;
+  border-radius: 100px;
+  outline: 20px solid rgb(0, 0, 0);
+  /* outline-offset: -21px; */
+  color: aliceblue;
+  font-size: 50px;
+}
